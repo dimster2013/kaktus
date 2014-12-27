@@ -1,7 +1,11 @@
 this is unchanged by beffertje before stash
 
+<<<<<<< Updated upstream
 
 
 
 
 fnbkjajfkljaslkfjlksajflkjaslkfjdsalkfjsda : after stash
+=======
+this is all before is start stashing
+>>>>>>> Stashed changes
